@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://idn20.score808.eu.org/sitemap.xml
